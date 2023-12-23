@@ -2,10 +2,17 @@
   "name": "joint-work-",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "scripts": {
     "start": "node index"
   }, 
   
+=======
+
+  "scripts": {
+    "start": "node index"
+  },
+>>>>>>> 685de4dd3f0160a7123aa8355f07c631d9d4604d
   "keywords": [],
   "author": "",
   "license": "ISC"
